@@ -1,0 +1,8 @@
+- [ ] Pechuga de pollo
+- [ ] Broccoli
+- [ ] Calabazas/zanahorias
+- [ ] Pimienta
+- [ ] Ajo en polvo
+- [ ] Miel (si se puede)
+- [ ] Nueces y Almendras
+- [ ] Mantequilla de almendras

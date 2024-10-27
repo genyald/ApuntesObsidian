@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "e2faa3627b613690",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cc30c7dd067ae51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91947c67ce5a2a11",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78743b21d8f94772",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd2c33f93b9a17ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa4a252c457d438b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2c2801399cead386",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "18e085d9724453ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373
+  },
+  "right": {
+    "id": "aac920c8667df01e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b3393498176b343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ae09e8d2f618de7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programación/Python/Conceptos/Función  Zip.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Función  Zip"
+            }
+          },
+          {
+            "id": "458cafc9ff4edddb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "92cb36348b53fccd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "eea0474e8f4b39b9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "26de7eb8741cc80b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9220781397e3a6ab",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "392bbf43131d7790",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programación/Python/Conceptos/Función  Zip.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Función  Zip"
+            }
+          },
+          {
+            "id": "aaf5cbed6721c2ef",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a5da52d7c41b84ea",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "vscode-editor:Create Code File": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "aa4a252c457d438b",
+  "lastOpenFiles": [
+    "Excalidraw/Grafo.ExplicacionPerceptronMulticapa.md",
+    "Excalidraw/Drawing 2024-10-26 20.29.45.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-23 20.32.54.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-23 20.32.29.excalidraw.md",
+    "README.md",
+    "Programación/Python/Machine Learning/El Perceptrón Multicapa.md",
+    "Programación/Vim/Aprendiendo Vim.md",
+    "Programación/Python/Machine Learning/Grafo Computacional.md",
+    "Persona/Sentimientos/Actitudes de Cada una de mis Parejas.md",
+    "Excalidraw/GrafoComputacional.md",
+    "Persona/Sentimientos/Geny a Genyto Sobre Karla.md",
+    "Persona/Sentimientos/29-08-2024 - Mi Amor Platónico por Karla.md",
+    "Persona/Sentimientos/22-08-24 - Relaciones.md",
+    "Persona/Sentimientos/5-09-24 - Mi Nueva Versión.md",
+    "Persona/Sentimientos/19-09-24 - Actitudes que quiero cambiar.md",
+    "Persona/Sentimientos/Situaciones.md",
+    "Persona/Sentimientos/Parte Logica y Parte Emocional.md",
+    "Persona/Sentimientos/Palabras de Aliento para Mí.md",
+    "Persona/Sentimientos/Obstáculos en la Comunicación.md",
+    "Persona/Sentimientos/Lista de Cosas Desechables en mi Comunicación.md",
+    "Persona/Sentimientos/Hablar Despacio y Lento.md",
+    "Persona/Sentimientos/15-03-23 - Actividades Semana Santa.md",
+    "Persona/Sentimientos/10-10-24 - Un Cambio en mi Grupo de Amigos.md",
+    "Excalidraw/Perceptron_TLU.excalidraw.md",
+    "Excalidraw",
+    "Programación/zmisc/foward_propagation.png",
+    "desmos-graph.svg",
+    "Programación/Python/Machine Learning/Links de Utilidad.md",
+    "Programación/Python/Machine Learning/El Perceptrón.md",
+    "Programación/zmisc/FowardPropagation.png",
+    "Programación/zmisc/DNN.png",
+    "Programación/zmisc/DNN.png",
+    "Programación/zmisc/DNN.png",
+    "Pasted image 20241018212804.png",
+    "Programación/Python/Jupyter Notebook's/Visualizacion del limite de desicion del Perceptron.ipynbZone.Identifier",
+    "Programación/Python/Jupyter Notebook's/Visualizacion del limite de desicion del Perceptron.ipynb",
+    "Programación/Python/Jupyter Notebook's/Introduccion a Pandas.ipynbZone.Identifier",
+    "Programación/Python/Jupyter Notebook's/Introduccion a Pandas.ipynb",
+    "Programación/Python/Jupyter Notebook's/Introduccion a NumPy.ipynbZone.Identifier",
+    "Programación/Python/Jupyter Notebook's/Introduccion a NumPy.ipynb",
+    "Programación/Python/Jupyter Notebook's/Introduccion a Matplotlib.ipynbZone.Identifier",
+    "Programación/Python/Jupyter Notebook's/Introduccion a Matplotlib.ipynb",
+    "Programación/Python/Jupyter Notebook's/Instrucciones_End-to-End_Learning.ipynb",
+    "Programación/zmisc/ramificacion_git.png",
+    "Programación/zmisc/sign_func 1.png",
+    "Programación/zmisc/sign_func.png",
+    "Escuela/Apuntes/Sistemas de Comunicaciones I/MODELO OSI Y TCP IP.canvas",
+    "Sin título.canvas",
+    "Hola.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

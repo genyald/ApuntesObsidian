@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "e8f9ee70255c58fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e077ab2e987a228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f52d41e4c070266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pendientes.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2958568b6449fd81",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c7da97efcc49b80d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "468a07a1af8a492d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8f0377a8c9ae99e3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "279bc008d7ac7a06",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      },
+      {
+        "id": "591b30cd77dbd2d5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "b39a1883b051afa2",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d29c21306d876380",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "741189c16b95769d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Pendientes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "81cdce038b713fe9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Pendientes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4a1ec9c99883127e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Pendientes.md"
+          }
+        }
+      },
+      {
+        "id": "71c7c918091896aa",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6f52d41e4c070266",
+  "lastOpenFiles": [
+    "Comunicaciones Digitales.md",
+    "CAPA DE ENLACE.md",
+    "Sin título.md",
+    "Aprendizaje Propio/Aprendiendo Obsidian/Formatos en Obsidian.md",
+    "Aprendizaje Propio/Programación/Python/Lecciones/Tipos de datos en Python/Set.md",
+    "Aprendizaje Propio/Programación/Python/Lecciones/Tipos de datos en Python/Listas.md",
+    "Aprendizaje Propio/Programación/Python/POO/code/Laboratorio Cubo.md",
+    "Escuela/Apuntes/Electrónica Analógica/Amplificadores Operacionales/Introducción al Opamp.md",
+    "Excalidraw/OPAMP.md",
+    "Escuela/Apuntes/Sistemas de Comunicaciones I/MODELO OSI Y TCP IP.canvas",
+    "Pendientes.md",
+    "Escuela/Calificaciones.md",
+    "Hábitos/Ejercicio.md",
+    "Escuela/Apuntes/Sistemas de Comunicaciones I/Modelo IP/EXPLICACIÓN DE CADA CAPA.md",
+    "Excalidraw/Drawing 2024-02-23 18.39.05.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Como hacer buenos apuntes en Obsidian.md",
+    "Hola.canvas",
+    "Sentimientos y persona/Lo que siento.md",
+    "Escuela/Tareas Realizadas/Cuestionarios Previos/Maquinas Sincronas/Práctica 1 - Máquinas Síncronas y de Corriente Directa.md",
+    "Escuela/Tareas Realizadas/Cuestionarios Previos/Maquinas Sincronas/misc/Pasted image 20240220235308.png",
+    "Escuela/Tareas Realizadas/Cuestionarios Previos/Maquinas Sincronas/Previo 2 - Máquinas Síncronas y de Corriente Directa.md",
+    "Escuela/Tareas Realizadas/Cuestionarios Previos/Maquinas Sincronas/misc/Pasted image 20240220231105.png",
+    "Escuela/Tareas Realizadas/Cuestionarios Previos/Maquinas Sincronas/misc",
+    "Escuela/Tareas Realizadas/Cuestionarios Previos/Comunicaciones Digitales/Previo 1 - Laboratorio Comunicaciones Digitales.md",
+    "Escuela/Tareas Realizadas/Cuestionarios Previos/Comunicaciones Digitales",
+    "Tareas Pendientes (conflict 2024-02-14-20-23-32).md",
+    "Tareas Pendientes.md",
+    "Hábitos/Estudio Propio.md",
+    "Previo 1 - Laboratorio Comunicaciones Digitales.md",
+    "Escuela/Tareas Realizadas/Transformadores y Motores/ESCRITO TRANSFORMADOR.md",
+    "Guia.md",
+    "Material - Libros.md",
+    "Hábitos/Diario de hábitos",
+    "Programación",
+    "Escuela/Apuntes rápidos",
+    "3.jpeg",
+    "2.jpeg",
+    "Escuela",
+    "Hábitos"
+  ]
+}

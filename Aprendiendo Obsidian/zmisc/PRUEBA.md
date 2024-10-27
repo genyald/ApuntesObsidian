@@ -1,0 +1,1 @@
+Segundo articulo vinculado con respecto a aprendiendo a usar Obsidian.

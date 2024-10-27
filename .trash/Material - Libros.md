@@ -1,0 +1,6 @@
+- [x] Pegamento
+- [x] Aguja punta roma
+- [x] Hilo cañamo
+- [x] Papel comprimido
+- [x] Papel Fotografía
+- [x] Cutter

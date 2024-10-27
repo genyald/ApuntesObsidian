@@ -1,0 +1,9 @@
+- [x] Pechuga
+- [x] Platanos
+- [x] Manzanas
+- [x] Espinada
+- [x] Yogurt
+- [x] Papel
+- [x] Desodorante
+- [x] Arroz
+- [x] Brócoli/zanahorias

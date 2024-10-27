@@ -1,0 +1,3 @@
+- [ ] Pluma nueva
+- [ ] Eliminador
+- [ ] Alcohol

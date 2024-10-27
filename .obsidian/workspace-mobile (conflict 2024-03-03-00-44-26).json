@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "b08b8ce2a6ca45e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cfa29decd44af7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4de4aa070891f4b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Escuela/Apuntes/Sistemas de Comunicaciones I/MODELO OSI Y TCP IP.canvas",
+                "viewState": {
+                  "x": -1301.3993045336906,
+                  "y": -124.99350625342367,
+                  "zoom": -1.2001954989434205
+                }
+              }
+            }
+          },
+          {
+            "id": "91d629d39fcef992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pendientes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd1be4da8951ad7a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/OPAMP.md"
+              }
+            }
+          },
+          {
+            "id": "9526c298e01f42fb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-29 08.02.24.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4fba020b98995add",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "30bbf80b4a5489a2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ceb723d5498e35bd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "af0ecb3d435f94e6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "abc33f16e11e2df0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "01e8b0a306f7ae33",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dab11075f5061009",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Pendientes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2415193b15938bd8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Pendientes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0833130f1679708d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Pendientes.md"
+          }
+        }
+      },
+      {
+        "id": "4773b29689ad3ac7",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "91d629d39fcef992",
+  "lastOpenFiles": [
+    "CAPA DE ENLACE.md",
+    "Escuela/Apuntes/Sistemas de Comunicaciones I/Untitled.md",
+    "Escuela/Apuntes/Sistemas de Comunicaciones I/MODELO OSI Y TCP IP.canvas",
+    "Aprendizaje Propio/Programación/Python/Lecciones/Tipos de datos en Python/Set.md",
+    "Hábitos/Diario de hábitos/2023-12-12.md",
+    "Hábitos/Estudio Propio.md",
+    "Hábitos/Ejercicio.md",
+    "2024-03-01.md",
+    "Comunicaciones Digitales.md",
+    "Pendientes.md",
+    "Antenas.md",
+    "Escuela/Apuntes/Electrónica Analógica/Amplificadores Operacionales/Introducción al Opamp.md",
+    "Excalidraw/OPAMP.md",
+    "Aprendizaje Propio/Aprendiendo Obsidian/Formatos en Obsidian.md",
+    "Excalidraw/Drawing 2024-02-29 08.02.24.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-29 08.01.40.excalidraw.md"
+  ]
+}

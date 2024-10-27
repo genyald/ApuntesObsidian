@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"ca01dcf5460da793","type":"group","x":-64,"y":-112,"width":844,"height":712,"label":"Redes Digitales"},
+		{"id":"c5939437c20ef688","type":"group","x":-20,"y":-40,"width":600,"height":460,"label":"Tipo anillo"},
+		{"id":"8c08ba3c4ad50a70","type":"text","text":"USUARIO","x":240,"y":0,"width":140,"height":50}
+	],
+	"edges":[]
+}

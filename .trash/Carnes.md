@@ -1,0 +1,17 @@
+- [ ] Papas
+- [ ] Chicharrón 
+- [ ] Cebollitas
+- [ ] Jitomate
+- [ ] Aguacate
+- [ ] Cilantro
+- [ ] Chiles para guacamole
+- [ ] Cebolla
+- [ ] 10 kg de carne
+- [ ] Carbón
+- [ ] Aceite
+- [ ] Bola de Queso oaxaca
+- [ ] Tortillas
+- [ ] Alitas
+- [ ] Concentrado de awa
+- [ ] Awa
+- [ ] Pimienta

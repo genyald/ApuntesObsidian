@@ -1,0 +1,62 @@
+- [ ] Clase Báez 1
+- [x] Material Ocón
+- [ ] Apunte Máquinas
+- [ ] Serie Máquinas
+- [ ] Leer prácticas
+- [ ] Clase y datasheets CD
+- [x] Apunte Comunicaciones II
+- [ ] Apunte Máquinas Síncronas
+- [ ] Simulación C.D. a 2400 Hz
+	- [ ] Apunte Verilog (obsidian)
+- [ ] Trapear
+- [ ] Limpiar
+- [ ] Práctica Máquinas
+- [ ] Recoger Memoria
+- [ ] Práctica Electrónica Analógica
+- [ ] Ejercicio
+- [ ] Cenar 
+- [ ] Estudiar condensadores
+- [x] Continuar Cisco
+- [x] Desayunar
+- [x] Almorzar
+- [x] Previo de Comunicaciones
+- [x] Previo Analógica 
+- [x] Estudiar Rede
+- [x] Cubrebocas
+- [x] Imágenes de tarea Máquinas
+- [x] Pluma
+- [x] Fruta
+- [x] Jabón
+- [x] Mesa
+- [x] Ejercicio
+- [x] Dormir
+- [x] Desayunar
+- [x] Almorzar
+- [x] Cenar
+- [x] Terminar Apuntes Máquinas
+- [x] ¿Qué es ancho de banda?
+- [x] Instalar Quartus
+- [x] Apunte Cisco
+- [x] Apunte CD
+- [x] Hablar con Ocampo
+- [x] Extensión
+- [x] Ejercicio
+- [x] Ir por vinil
+- [x] Colocar vinil
+- [x] Hacer extensión
+- [x] Ir por el agua
+- [x] Desayunar
+- [x] Armar equipo máquinas
+- [x] Sesión Carnes
+- [x] Pollo rostizado
+- [x] Formulario Ocampo
+- [x] Retirar Dinero
+- [x] Ir con Blanca
+- [x] Desayunar
+- [x] Subir Previo Máquinas
+- [x] Previo de Máquinas 
+- [ ] Renuncia Integra
+- [ ] Arreglar Impresora
+- [ ] Calibrar filamento
+- [ ] Impresión de prueba
+- [ ] Traer Filamento

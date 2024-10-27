@@ -1,0 +1,17 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showLineNumber": false,
+  "vimMode": true,
+  "showRibbon": true
+}
